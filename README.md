@@ -4,4 +4,4 @@ This repo is an assignment by <a href="https://theodinproject.com/" target="_bla
 <a href="https://www.theodinproject.com/lessons/foundations-recipes"> Link to the assignment.<a/>
 
 ## Sources
-All recipes and pictures come from <a href="https://www.allrecipes.com/" target="_blank">
+All recipes and pictures come from <a href="https://www.allrecipes.com/" target="_blank">allrecipes.com<a/>
